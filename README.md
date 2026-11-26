@@ -1,3 +1,6 @@
+<p alingn="center">
+  <img src="tablero.webp" width="100%" alt="Portada">
+</p>
 ## Hi there 👋
 
 <!--
